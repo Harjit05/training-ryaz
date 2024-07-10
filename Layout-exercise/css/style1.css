@@ -1,0 +1,23 @@
+
+.container{
+ border: 3px solid black;
+ display: flex;
+ background: black;
+ flex-direction:column;
+ justify-content: flex-end;
+}
+.box{
+ /* background-color:gold; */
+ color: white; 
+ width: 6.3rem;
+ height: 2rem;
+ margin:0.5rem;
+}
+.box-one{
+ flex-basis: 3rem;
+}
+@media screen and (min-width:768px) {
+ .container{
+   flex-direction: row;     
+ }
+}
