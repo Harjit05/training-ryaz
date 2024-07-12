@@ -4,10 +4,8 @@
          url('fonts/open-sans/opensans-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-    
-
+    font-display: block;
 }
-
 
 @font-face {
     font-family: 'opensans';
@@ -15,18 +13,18 @@
          url('fonts/open-sans/opensans-bold-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
-
 }
 body{
     margin: 10px;
-    font-family: 'open-sans',Arial, Helvetica, sans-serif;
+    font-family: 'Open Sans',Arial, Helvetica, sans-serif;
 }
-h1{
-    font-family: Georgia, 'Times New Roman', Times, serif;
+
+h1{ 
+    font-family: Roboto, Arial, Helvetica, sans-serif;
 }
 p{
-    font-weight: bold;
-    font-style: italic;
+    font-weight: normal;
     font-size: 1rem;
     color:#222;
+
 }

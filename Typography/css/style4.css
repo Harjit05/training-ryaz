@@ -1,0 +1,25 @@
+body{
+    direction: rtl;
+
+}
+/* p + p{
+    width: 50ch;
+    text-align: left;
+    text-indent: 1rem;
+} */
+ p{
+    width: 50ch;
+    /* text-decoration: underline; */
+    /* text-decoration: line-through; */
+    /* text-transform: capitalize; */
+    /* white-space: nowrap;
+    border: 3px solid gold;
+    overflow: hidden;
+    text-overflow: ellipsis; */
+
+    /* column-count: 2;
+    column-gap: 2rem;
+    column-rule: 3px dotted #999; */
+
+    /* direction: rtl; */
+ }
