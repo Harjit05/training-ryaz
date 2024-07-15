@@ -1,0 +1,21 @@
+.bg-image
+{
+background:url('/Typography/Imagesmodule/images/css-sprite-combined.png') 0px -0px;
+width:512px;height:512px;
+display:inline-block;
+}
+
+.bg-image1
+{
+background:url('/Typography/Imagesmodule/images/css-sprite-combined.png') -512px -0px;
+width:512px;height:512px;
+display:inline-block;
+}
+
+.bg-image2
+{
+background:url('/Typography/Imagesmodule/images/css-sprite-combined.png') -1024px -0px;
+width:512px;height:512px;
+display:inline-block;
+}
+

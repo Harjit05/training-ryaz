@@ -1,0 +1,18 @@
+
+body{
+    background: url(/Typography/food1.avif);
+    /* background-repeat: repeat-y; */
+    background-repeat: no-repeat;
+    /* background-position: 100px 100px; */
+    /* background-position: 100% 200px; */
+    /* background-size: 200px 200px; */
+    /* background-size: 100% 100%; */
+    /* background-size: cover; */
+    background-attachment: fixed;
+
+    height: 300vh;
+}
+/* content images */
+/* .food{
+    width: 100vw;
+} */
